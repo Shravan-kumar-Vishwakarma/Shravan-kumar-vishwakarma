@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Food Delivery API**
 
-- 🌱 I’m currently learning **Htmal,Css,React**
+- 🌱 I’m currently learning **Html,Css,React**
 
 - 👯 I’m looking to collaborate on **Instagram BackEnd**
 
